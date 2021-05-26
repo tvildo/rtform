@@ -1,11 +1,12 @@
 # Rtform
 
-Rtform is a library to help you validate user input in a declarative way and works for both ReactJS and Reac-Native.
+Rtform is a library to help you validate user input in a declarative way using react hooks.
+works for both ReactJS and Reac-Native.
 
 **What is included?**
-* basic user input validation (regex, required)
-* user input correction (trimming, masking)
-* async validation
+* basic user input validation (emal, required, regex)
+* user input correction trimming, masking for credit cards
+* support for async validation
 * ability to add custom validators very easily
 
 # Examples
