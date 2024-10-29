@@ -1,6 +1,6 @@
 {
   "name": "rtform",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react / react-native library to manage forms ( validation, masking )",
   "main": "dist/index.js",
   "scripts": {
