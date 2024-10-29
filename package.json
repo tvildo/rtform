@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "react / react-native library to manage forms ( validation, masking )",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "format": "prettier --config .prettierrc 'src/**/*.ts' --write",
